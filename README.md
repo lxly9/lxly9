@@ -1,0 +1,3 @@
+- ❤️ Hi, I’m Lily
+- 🥰 I’m interested in Minecraft Modding (Fabric)
+- 😘 I’m currently learning how to work with minecraft metadata and .json files as well as customized texturing, etc
